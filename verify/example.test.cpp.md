@@ -25,12 +25,12 @@ layout: default
 <link rel="stylesheet" href="../assets/css/copy-button.css" />
 
 
-# :warning: example.test.cpp
+# :heavy_check_mark: example.test.cpp
 
 <a href="../index.html">Back to top page</a>
 
 * <a href="{{ site.github.repository_url }}/blob/master/example.test.cpp">View this file on GitHub</a>
-    - Last commit date: 2019-12-26 00:03:25+09:00
+    - Last commit date: 2019-12-26 00:18:29+09:00
 
 
 * see: <a href="https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/4/ALDS1_4_B">https://onlinejudge.u-aizu.ac.jp/courses/lesson/1/ALDS1/4/ALDS1_4_B</a>
@@ -63,7 +63,7 @@ int main() {
     }
     cout << cnt << endl;
     return 0;
-}e
+}
 
 ```
 {% endraw %}
@@ -94,7 +94,7 @@ int main() {
     }
     cout << cnt << endl;
     return 0;
-}e
+}
 
 ```
 {% endraw %}
